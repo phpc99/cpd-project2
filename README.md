@@ -8,6 +8,8 @@
 - Uses Java 21 virtual threads for lightweight, highly scalable concurrency;
 - Clients interact through commands.
 
+# Screenshots
+
 # How to run the project
 
 ### Step 1:
