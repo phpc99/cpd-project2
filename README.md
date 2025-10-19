@@ -1,3 +1,13 @@
+# Features
+
+- Implements a concurrent TCP-based architecture where multiple clients can connect and communicate simultaneously;
+- All client–server interactions are encrypted using generated SSL certificates, ensuring message privacy and authentication;
+- Supports user registration, login, and session management with credential verification for secure access;
+- Users can create, join, and leave chat rooms, enabling organized group conversations;
+- Includes special chat rooms connected to Ollama, allowing users to interact with a local LLM;
+- Uses Java 21 virtual threads for lightweight, highly scalable concurrency;
+- Clients interact through commands.
+
 # How to run the project
 
 ### Step 1:
