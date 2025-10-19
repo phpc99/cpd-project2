@@ -15,3 +15,7 @@
 `/rooms` to list all rooms available;
 `/leave` to leave a room and return to room selection;
 `/exit` to exit the application.
+
+# Authors
+- Lara Cunha (up202108876)
+- Pedro Camargo (up202102365)
