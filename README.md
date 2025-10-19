@@ -10,6 +10,15 @@
 
 # Screenshots
 
+### User _pedro_ registration
+![user1register](https://github.com/phpc99/cpd-project2/blob/main/user1register.png)
+
+### User login and room creation
+![userloginandcreation](https://github.com/phpc99/cpd-project2/blob/main/loginAndRoomCreation.png)
+
+### User _mariana_ enters the same room
+![user2](https://github.com/phpc99/cpd-project2/blob/main/user2entersRoom.png)
+
 # How to run the project
 
 ### Step 1:
